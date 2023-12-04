@@ -1,0 +1,6 @@
+export const ExpenseActionTypes = {
+    SET_EXPENSES: "SET_EXPENSES",
+    NEW_EXPENSE: "NEW_EXPENSE",
+    EDIT_EXPENSE: "EDIT_EXPENSE",
+    DELETE_EXPENSE: "DELETE_EXPENSE",
+}
