@@ -1,0 +1,12 @@
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\bin\Debug\net8.0\TrackMoney.Services.deps.json
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\bin\Debug\net8.0\TrackMoney.Services.dll
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\bin\Debug\net8.0\TrackMoney.Services.pdb
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\obj\Debug\net8.0\TrackMoney.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\obj\Debug\net8.0\TrackMoney.Services.AssemblyInfoInputs.cache
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\obj\Debug\net8.0\TrackMoney.Services.AssemblyInfo.cs
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\obj\Debug\net8.0\TrackMoney.Services.csproj.CoreCompileInputs.cache
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\obj\Debug\net8.0\TrackMoney.Services.dll
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\obj\Debug\net8.0\refint\TrackMoney.Services.dll
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\obj\Debug\net8.0\TrackMoney.Services.pdb
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\obj\Debug\net8.0\ref\TrackMoney.Services.dll
+D:\pars\Source\TrackMoney.Api\TrackMoney.Services\obj\Debug\net8.0\TrackMoney.Services.csproj.AssemblyReference.cache

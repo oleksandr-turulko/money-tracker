@@ -1,0 +1,15 @@
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\bin\Debug\net8.0\TrackMoney.BLL.Models.deps.json
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\bin\Debug\net8.0\TrackMoney.BLL.Models.dll
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\bin\Debug\net8.0\TrackMoney.BLL.Models.pdb
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\obj\Debug\net8.0\TrackMoney.BLL.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\obj\Debug\net8.0\TrackMoney.BLL.Models.AssemblyInfoInputs.cache
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\obj\Debug\net8.0\TrackMoney.BLL.Models.AssemblyInfo.cs
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\obj\Debug\net8.0\TrackMoney.BLL.Models.csproj.CoreCompileInputs.cache
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\obj\Debug\net8.0\TrackMoney.BLL.Models.dll
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\obj\Debug\net8.0\refint\TrackMoney.BLL.Models.dll
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\obj\Debug\net8.0\TrackMoney.BLL.Models.pdb
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\obj\Debug\net8.0\ref\TrackMoney.BLL.Models.dll
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\bin\Debug\net8.0\TrackMoney.Data.Models.dll
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\bin\Debug\net8.0\TrackMoney.Data.Models.pdb
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\obj\Debug\net8.0\TrackMoney.BLL.Models.csproj.AssemblyReference.cache
+D:\pars\Source\TrackMoney.Api\TrackMoney.BLL.Models\obj\Debug\net8.0\TrackMoney.BLL.Models.csproj.CopyComplete
